@@ -43,10 +43,10 @@ Users should be able to:
 
 ### What I learned
 
--Stacking multiple background images on top of each other, using pseudo elements to add a background element that can go out of the element.
--You can create a drop shadow on the background of a pseudoelement with filter(dropshadow). I did not expect this to be possible!
--Using label and checkbox for a no-JavaScript accordion.
--I also decided to stop being too strict on the exact sizing of objects as I was getting really tired trying to match typography and padding perfectly. I decided as long as it was functionally effective I would be fine with it.
+- Stacking multiple background images on top of each other, using pseudo elements to add a background element that can go out of the element.
+- You can create a drop shadow on the background of a pseudoelement with filter(dropshadow). I did not expect this to be possible!
+- Using label and checkbox for a no-JavaScript accordion.
+- I also decided to stop being too strict on the exact sizing of objects as I was getting really tired trying to match typography and padding perfectly. I decided as long as it was functionally effective I would be fine with it.
 
 ### Continued development
 
