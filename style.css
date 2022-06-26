@@ -106,7 +106,7 @@ h2:hover {
   cursor: pointer;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 972px) {
   main {
     position: relative;
     top: 0px;
@@ -137,20 +137,3 @@ h2:hover {
   h2 {
     letter-spacing: -0.5px;
   }
-
-  /* position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  min-height: 510px;
-  width: 920px;
-  background: url("images/illustration-woman-online-desktop.svg") -85px 70px no-repeat,
-    url("images/bg-pattern-desktop.svg") -570px -300px no-repeat,
-    var(--lightGrayishBlue);
-  border-radius: 20px;
-  box-shadow: 0px 20px 40px var(--veryDarkGrayishBlue);
-  padding-left: 480px;
-  padding-top: 60px;
-  padding-right: 80px;
-  padding-bottom: 60px; */
-}
